@@ -6,6 +6,7 @@
   - multiply
   - divide
   - getSumVer1
+  - remainder_pull
 
 # API
 ## 계산기
