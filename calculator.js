@@ -17,3 +17,7 @@ const divide = (a, b) => {
 const remainder_pull = (a, b) => {
     return a % b
 }
+
+const squre = (a, b) => {
+    return a ** b
+}
