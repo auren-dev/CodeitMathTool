@@ -14,6 +14,6 @@ const divide = (a, b) => {
     return a / b
 }
 
-const remainder = (a, b) => {
+const remainder_local_repo = (a, b) => {
     return a % b
 }
