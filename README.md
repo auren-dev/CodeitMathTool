@@ -5,8 +5,7 @@
   - subtract
   - multiply
   - divide
-  - getSumVer1
-  - remainder_pull
+  - test2 브랜치다
 
 # API
 ## 계산기
