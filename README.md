@@ -5,6 +5,7 @@
   - subtract
   - multiply
   - divide
+  - squre
 
 # API
 ## 계산기
