@@ -5,6 +5,7 @@
   - subtract
   - multiply
   - divide
+  - remainder_pull
 
 # API
 ## 계산기
