@@ -5,6 +5,7 @@
   - subtract
   - multiply
   - divide
+  - getSumVer1
 
 # API
 ## 계산기
