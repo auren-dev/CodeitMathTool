@@ -25,3 +25,7 @@ const squre = (a, b) => {
 const getSumVer1 = (n) => {
 	return n(n + 1) / 2
 }
+
+const getSumVer2 = (n) => {
+	return n(n + 1) / 2
+}
