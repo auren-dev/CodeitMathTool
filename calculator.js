@@ -14,6 +14,18 @@ const divide = (a, b) => {
     return a / b
 }
 
-const remainder = (a, b) => {
+const remainder_pull = (a, b) => {
     return a % b
+}
+
+const squre = (a, b) => {
+    return a ** b
+}
+
+const getSumVer1 = (n) => {
+	return n(n + 1) / 2
+}
+
+const getSumVer2 = (n) => {
+	return n(n + 1) / 2
 }
