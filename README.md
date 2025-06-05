@@ -5,7 +5,7 @@
   - subtract
   - multiply
   - divide
-  - squre
+  - getMedian
 
 # API
 ## 계산기
