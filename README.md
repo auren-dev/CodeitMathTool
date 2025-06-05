@@ -5,7 +5,7 @@
   - subtract
   - multiply
   - divide
-  - test 브랜치다
+  - getMedian
 
 # API
 ## 계산기
